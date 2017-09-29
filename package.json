@@ -1,0 +1,22 @@
+{
+  "name": "sagelights",
+  "version": "1.0.0",
+  "description": "A project designed to marry photos with event data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srsmith/sagelights.git"
+  },
+  "author": "Scott Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srsmith/sagelights/issues"
+  },
+  "homepage": "https://github.com/srsmith/sagelights#readme",
+  "dependencies": {
+    "exif-parser": "^0.1.12"
+  }
+}
